@@ -130,4 +130,4 @@ This project demonstrates how sales and customer data can be transformed into ac
 
 Aryan Soni
 
-Data Analyst | SQL | Python | Tableau | Excel
+Data Analyst | SQL | Python | PowerBI | Tableau | Excel
